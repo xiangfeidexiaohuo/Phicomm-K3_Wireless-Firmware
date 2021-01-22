@@ -3,7 +3,7 @@
 Ps:适用于斐讯K3的LEDE/OpenWrt替换无线驱动(如果当前驱动足够稳定,没必要替换)
 
 
-brcmfmac4366c-pcie.bin_ac88_3  (2020-03-12的ac88u固件提取)
+brcmfmac4366c-pcie.bin_ac88_3  (2020-03-12的ac88u固件提取,也是大雕lean源码自带的驱动)
 
 brcmfmac4366c-pcie.bin_ac88_2  (2019-07-23的ac88u固件提取)
 
